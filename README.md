@@ -1,2 +1,2 @@
-# fucking_moneda
-tercer intento y me quedo calva
+# la_moneda
+tercer intento sin archivo streamlit/config.toml 
